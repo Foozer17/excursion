@@ -1,0 +1,30 @@
+body {
+  background-color: Black;
+  text-align: center;
+  font-family: Verdana;
+}
+h1 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+}
+h2 {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+}
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+  }
+.gray {
+  font-family: Verdana;
+  color: gray;
+  font-size: 21px;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
